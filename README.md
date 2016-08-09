@@ -6,6 +6,7 @@ Global editorconfig file with sensible defaults.
 * java
 * json
 * md
+* php
 * py
 * sublime
 * yaml
