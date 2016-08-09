@@ -19,5 +19,5 @@ Clone repository and link editorconfig file to ~/.editorconfig.
 
 ```
 git clone git@github.com:terenc3/editorconfig.git
-ln editorconfig/editorconfig ~/.editorconfig
+ln editorconfig/editorconfig.ini ~/.editorconfig
 ```
