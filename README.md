@@ -13,6 +13,7 @@ Global editorconfig file with sensible defaults.
 
 ## Programms
 * bower
+* make
 * npm
 
 # Usage
