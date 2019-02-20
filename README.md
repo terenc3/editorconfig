@@ -15,6 +15,7 @@ Global editorconfig file with sensible defaults.
 * bower
 * make
 * npm
+* vagrant
 
 # Usage
 Clone repository and link editorconfig file to ~/.editorconfig.
